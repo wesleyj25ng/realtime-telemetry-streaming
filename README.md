@@ -10,7 +10,7 @@ This repository is **not** a dump of internship code. It is a **generic recreati
 
 ## Contents
 
-udp/ - UDP sender/receiver + CCSDS-style packet framing demo
+udp/ - UDP sender/receiver + CCSDS-style packet framing demo**
 wireshark/ - Wireshark Lua dissector example for decoding packets
 
 ## What this demonstrates
