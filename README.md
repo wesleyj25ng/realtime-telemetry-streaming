@@ -6,7 +6,7 @@ It includes:
 - a Python UDP demo that packetizes payload data into **CCSDS-style segments**
 - a Wireshark Lua dissector **example** that shows how to decode a CCSDS-style header and map message IDs to fields
 
-This repository is **not** a dump of internship code. It is a **generic recreation** intended to demonstrate the same technical ideas (packet framing, segmentation, UDP transport, and tooling for debugging binary protocols).
+This repository is a generic recreation intended to demonstrate the same technical ideas (packet framing, segmentation, UDP transport, and tooling for debugging binary protocols).
 
 ## Contents
 
